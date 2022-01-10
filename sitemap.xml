@@ -68,7 +68,6 @@
 <url> <loc>https://programming-22.mooc.fi/grading-and-exams</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-22.mooc.fi/glossary</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-22.mooc.fi/faq</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://programming-22.mooc.fi/exam</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-22.mooc.fi/error_messages</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-22.mooc.fi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://programming-22.mooc.fi/credits/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
