@@ -197,7 +197,7 @@ Car: odometer reading 60 km, petrol remaining 60 litres
 
 ## A brief note on private attributes, Python and object oriented programming
 
-There are ways around the underscore `__` notation for hiding attributes, which you may come across if you search for resources online. No Python attribute is truly private, and this is intentional on the part of the creators of Python. On the other hand, a Python programmer is generally expected to respect the visibility guidelines set in classes, and it takes a special effort to get around these. In other object oriented programming languages, such as Java, private variables are often truly hidden, and it is best if you think of private Python variables as such as well.
+There are ways around the underscore `__` notation for hiding attributes, which you may come across if you search for resources online. No Python attribute is truly private, and this is intentional on the part of the creators of Python. On the other hand, a Python programmer is generally expected to respect the visibility guidelines set in classes, and it takes special effort to get around these. In other object oriented programming languages, such as Java, private variables are often truly hidden, and it is best if you think of private Python variables as such as well.
 
 ## Getters and setters
 
