@@ -286,7 +286,7 @@ Neither approach is intrinsically better than the other, but in different situat
 
 <in-browser-programming-exercise name="Leap year" tmcname="part02-12_leap_year">
 
-Generally, any year that is divisible by four is a leap year. However, if the year is additionally divisible by 100, it is a leap year only if it also divisible by 400.
+Generally, any year that is divisible by four is a leap year. However, any year that is evenly divisible by 100, is a leap year only if it also divisible by 400.
 
 Please write a program which asks the user for a year, and then prints out whether that year is a leap year or not.
 
