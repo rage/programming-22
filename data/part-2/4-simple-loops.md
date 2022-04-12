@@ -414,6 +414,8 @@ Correct! It only took you one single attempt!
 <in-browser-programming-exercise name="The next leap year" tmcname="part02-20_next_leap_year">
 
 Please write a program which asks the user for a year, and prints out the next leap year.
+    
+*<a href="https://programming-22.mooc.fi/part-2/3-combining-conditions#programming-exercise-leap-year" target="_blank">Click here if you forgot how to check if a year is leap or not?</a>?*
 
 <sample-output>
 
