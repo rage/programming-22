@@ -269,7 +269,7 @@ Bill and Jean are the same age
 
 <in-browser-programming-exercise name="Alphabetically last" tmcname="part02-07_alphabetically_last"  height="500px">
 
-Python comparison operators can also be used on strings. String `a` is smaller than string `b` if it comes alphabetically before `b`. Notice however that the comparison is only reliable if
+Python comparison operators can also be used on strings. Each character in Python is represented by a specific number in [Unicode](https://en.wikipedia.org/wiki/Unicode). For example, string `a` (number 97 in decimal representation of Unicode characters) is smaller than string `b` (number 98 in decimal representation of Unicode characters). You can see a list of Unicode characters [here](https://en.wikipedia.org/wiki/List_of_Unicode_characters#Latin_script). Notice however that the comparison is only reliable if
 - the characters compared are of the same case, i.e. both UPPERCASE or both lowercase
 - only the standard English alphabet of a to z, or A to Z, is used.
 
