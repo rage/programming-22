@@ -562,10 +562,10 @@ U2 (Joshua Tree), 1986. 50 min.
 
 The exercise template contains the definition for a class named `BallPlayer`. It has the following public attributes:
 
-* name
+* name `nimi`
 * shirt number `number`
 * scored goals `goals`
-* assists completed `assists`
+* assists completed `passes`
 * minutes played `minutes`
 
 Please implement the following functions. NB: each function has a different type of return value.
