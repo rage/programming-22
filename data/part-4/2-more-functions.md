@@ -476,7 +476,7 @@ The sum is 10
 
 </sample-output>
 
-The return value of a function is a value just like any other. It is not necessary to store it in a variable in order give it as an argument to the `print` command:
+The return value of a function is a value just like any other. It is not necessary to store it in a variable in order to give it as an argument to the `print` command:
 
 ```python
 print("The sum is", my_sum(4, 6))
