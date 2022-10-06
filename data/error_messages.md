@@ -23,7 +23,7 @@ This error message usually appears when there is a typo in your code which the P
 
 ```python
     number1 = 1
-    number1 = 2
+    number2 = 2
     if number1 < number2    # ':' missing
         print('number2 is greater')
 ```
@@ -45,7 +45,7 @@ The following code would cause this error:
 
 ### NameError: name [variable name] is not defined on line [line number]
 
-You are trying to refer to a variable or object which does not exist at that specific point in your program. It may be that the variable has not yet been assigned a value, or there is a typo in the variable name. It may also be the case that you have defined a variable inside a function, and are trying to refer to that same variable outside the function. 
+You are trying to refer to a variable or object which does not exist at that specific point in your program. It may be that the variable has not yet been assigned a value, or there is a typo in the variable name. It may also be the case that you have defined a variable inside a function, and are trying to refer to that same variable outside the function.
 
 ```python
     person = input('Please type in your name: ')
@@ -59,13 +59,13 @@ You are trying to refer to a variable or object which does not exist at that spe
 
 You may be trying to add an integer and a string together, without first converting the string into an integer value. Strings can be converted into integers with the `int()` function. A similar error message may appear if you try to perform other arithmetic operations, such as division or subtraction, on strings.
 
-It may also be the case that you are trying to create a new string by combining a string and an integer. You should first convert the integer into a string with the `str()` function. 
+It may also be the case that you are trying to create a new string by combining a string and an integer. You should first convert the integer into a string with the `str()` function.
 
 ```python
     my_age = input("Please type in your age: ")
     my_name = input("Please type in your name: ")
 
-    print(my_age//2)   # error: the variable my_age has not been converted into an integer 
+    print(my_age//2)   # error: the variable my_age has not been converted into an integer
 ```
 
 ### TypeError: cannot concatenate 'str' and 'int' objects on line [line number]

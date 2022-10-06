@@ -32,7 +32,7 @@ You may take part in any number of the exams listed above. The highest grade ach
 
 <notice>All times are local time in Helsinki, Finland, UTC+03:00</notice>
 
-* You do not need to enrol for the exam.
+* You do not need to enroll for the exam.
 * The course exam can be taken on exam date **between 10:00 AM and 10:00 PM**.
 * The exam ends at 10:00 PM at the latest. If you want to be able to spend the maximum time allowed on the exam, you should **start at 6:00 PM at the latest**.
 * You will have **four hours** to complete the exam. If you have been granted extra time through special arrangements, you will have five hours to complete the exam, and should start at 5:00 PM at the latest.
