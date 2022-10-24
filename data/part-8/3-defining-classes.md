@@ -196,7 +196,7 @@ class LotteryDraw:
 # Create a new LotteryDraw object
 round1 = LotteryDraw(1, date(2021, 1, 2), [1,4,8,12,13,14,33])
 
-# Tulostetaan tiedot
+# Print the information
 print(round1.round_week)
 print(round1.round_date)
 
