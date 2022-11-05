@@ -476,7 +476,7 @@ The method should use a list comprehension to achieve this. The maximum length o
 Please take a look at the example below:
 
 ```python
-week8 = LotteryNumbers(8, [1,2,3,10,20,30,33])
+week8 = LotteryNumbers(8, [1,2,3,10,15,20,30])
 my_numbers = [1,4,7,10,11,20,30]
 
 print(week8.hits_in_place(my_numbers))
