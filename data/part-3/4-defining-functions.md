@@ -140,7 +140,7 @@ print(name)                            # argument is the value of the variable n
 
 It was mentioned before that the terms _argument_ and _parameter_ are often used to refer to the same thing. The distinction is that while _argument_ is used with the data passed to the function when the function is called, _inside_ the function the arguments are assigned to variables called _parameters_. So, approximately, when the function is called, we call the passed bits of data arguments, but when we are defining the function, we call them parameters.
 
-This may seem like a futile semantic distintion, and to make things even muddier, not all sources follow this definition. On this course we attempt to keep the distinction clear, however, as knowing the correct terminology will help you understand other sources besides this course material.
+This may seem like a futile semantic distinction, and to make things even muddier, not all sources follow this definition. On this course we attempt to keep the distinction clear, however, as knowing the correct terminology will help you understand other sources besides this course material.
 
 Let's define some functions that take arguments. In the function definition, the parameters are defined within the parentheses after the function name:
 
