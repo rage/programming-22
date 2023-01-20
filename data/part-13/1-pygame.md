@@ -40,6 +40,8 @@ Installation may require system administrator privileges. If the above doesn't w
 
 Installing and accessing pygame requires that your Python installation is added to path, as instructed [here](https://www.mooc.fi/en/installation/vscode/#python3).
 
+If none of the above is successful, try `pip install pygame --pre`.
+
 ### Mac
 
 Open the _Terminal_, for example through the magnifying glass symbol in the top right corner:
