@@ -318,7 +318,7 @@ for route in sort_by_length(routes):
 Edge, length 38 metres, grade 6A+
 Synchro, length 14 metres, grade 8C+
 Small steps, length 12 metres, grade 6A+
-Smooth operator, length 9 metres, grade 7A
+Smooth operator, length 11 metres, grade 7A
 
 </sample-output>
 
