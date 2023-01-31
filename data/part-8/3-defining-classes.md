@@ -41,7 +41,7 @@ class BankAccount:
 
 The above piece of code tells Python that here we are defining a class named `BankAccount`. The class does not contain any functionality yet, but we can still create an object based on the class.
 
-Lets have a look at a program where two variables are added to a `BankAccount` object: `balance` and `owner`. Any variables attached to an object are called its _attributes_, or more specifically, _data attributes_, or sometimes _instance variables_. 
+Lets have a look at a program where two variables are added to a `BankAccount` object: `balance` and `owner`. Any variables attached to an object are called its _attributes_, or more specifically, _data attributes_, or sometimes _instance variables_.
 
 The attributes attached to an object can be accessed through the object:
 
@@ -266,7 +266,7 @@ Please also include a constructor in each class. The constructor should take the
 
 </programming-exercise>
 
-## Using objecs formed from your own classes
+## Using objects formed from your own classes
 
 Objects formed from your own class definitions are no different from any other Python objects. They can be passed as arguments and return values just like any other object. We could, for example, write some helper functions for working with bank accounts:
 
