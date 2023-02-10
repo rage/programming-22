@@ -7,7 +7,7 @@ banner: true
 sidebar_priority: 7000
 ---
 
-<text-box variant="hint" name="Huomio">
+<text-box variant="hint" name="Note">
 
 <notice>This course page is expired.</notice>
 
