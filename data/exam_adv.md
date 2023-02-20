@@ -1,6 +1,6 @@
 ---
 path: "/exam-adv"
-title: "Advanced Course in Programming exam 21.01."
+title: "Advanced Course in Programming exam 25.02."
 information_page: true
 sidebar_priority: 4800
 hide_in_sidebar: false
@@ -19,7 +19,7 @@ hide_in_sidebar: false
 #### Exam arrangements
 
 * Your solutions to the programming tasks in the exam will be submitted in the Visual Studio Code programming environment, in the same manner as the weekly exercises on the course.
-* The course exam can be taken on January 21st 2023 **between 10:00 (UTC+3) AM and 10:00 PM (UTC+3)**.
+* The course exam can be taken on February 25th 2023 **between 10:00 (UTC+3) AM and 10:00 PM (UTC+3)**.
 * The exam ends at 10:00 PM (UTC+3) at the latest. If you want to be able to spend the maximum time allowed on the exam, you should **start at 6:00 PM (UTC+3) at the latest**.
 * You will have **four hours** to complete the exam. If you have been granted extra time through special arrangements, you will have five hours to complete the exam, and should start at 5:00 PM (UTC+3) at the latest.
 
@@ -43,7 +43,7 @@ hide_in_sidebar: false
 2. Select the `My courses` view in the TMC menu.
 3. Click the `Add new course` button.
 4. Select the organization `Helsingin yliopisto`.
-5. Select the course `Advanced Course in Programming, autumn 2022, Online Exam 3`.
+5. Select the course `Advanced Course in Programming, autumn 2022, Online Exam 4`.
 6. Fetch the programming task templates.
 7. Try submitting the programming tasks.
 8. If you are able to submit the tasks, you are ready to take the exam. If not, get in touch with course instructors. Don't panic, we will work it out.
@@ -55,8 +55,8 @@ Please do not ask any questions about specific programming tasks assigned to you
 
 * The exam questions, in the form of programming task instructions, will become available at courses.mooc.fi at 10:00 AM on the day of the exam.
 * You should use your usual mooc.fi login details to log in at the exam page.
-* The exam questions can be found from here: <a href="https://courses.mooc.fi/org/uh-cs/exams/4bd90878-d0ee-4a7f-9e45-b8b3ca424ab5">https://courses.mooc.fi/org/uh-cs/exams/4bd90878-d0ee-4a7f-9e45-b8b3ca424ab5</a>
-* If you have been granted extra time through special arrangements, open the exam questions from this link: <a href="https://courses.mooc.fi/org/uh-cs/exams/136c6004-7c2e-4441-a8ef-1a6e1cbdfb09">https://courses.mooc.fi/org/uh-cs/exams/136c6004-7c2e-4441-a8ef-1a6e1cbdfb09</a>
+* The exam questions can be found from here: <a href="https://courses.mooc.fi/org/uh-cs/exams/0ea440d9-83a5-4a32-ad16-a424bf17925a">https://courses.mooc.fi/org/uh-cs/exams/0ea440d9-83a5-4a32-ad16-a424bf17925a</a>
+* If you have been granted extra time through special arrangements, open the exam questions from this link: <a href="https://courses.mooc.fi/org/uh-cs/exams/6ce2c2a9-d043-4152-b88c-09b6b8983a1d">https://courses.mooc.fi/org/uh-cs/exams/6ce2c2a9-d043-4152-b88c-09b6b8983a1d</a>
 * Your allocated exam time will begin when you click on the button `START THE EXAM!`.
 
 #### Submitting your solutions
